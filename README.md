@@ -4,7 +4,7 @@ Some desktop environments can be styled with CSS and JS, e.g. the GNOME DE in Li
 
 ## Deliverables
 
-* Re-create the following home screen as closely as possible, including the dock at the bottom of the screen. ![iPhone 7 Home Screen](https://github.com/wdi-sg/css-ios/blob/master/Frame/HomeScreenMockup.png?raw=true)
+* Re-create the following home screen in a web page as closely as possible, including the dock at the bottom of the screen. ![iPhone 7 Home Screen](https://github.com/wdi-sg/css-ios/blob/master/Frame/HomeScreenMockup.png?raw=true)
 
 ### Further
 * Write the app names without writing any text in a div.
