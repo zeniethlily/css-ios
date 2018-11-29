@@ -20,6 +20,5 @@ Some desktop environments can be styled with CSS and JS, e.g. the GNOME DE in Li
 
 
 ## Useful tools
-- CSS flexbox
 - The `:before` and `:after` selectors
 - CSS filter - blur
