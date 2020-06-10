@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>iPhone CSS</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $(".home").click(function(){
+                    $(".screen").toggleClass('active')
+                })
+            })
+        </script>
+    </head>
+    <body>
+        <div class="center">
+            <div class="mobile">
+                <div class="screen"></div>
+                <div class="home"></div>
+                <div class="inner"></div>
+                <ul class="volume">
+                    <li></li>
+                    <li></li>
+                </ul>
+                <ul class="silent">
+                    <li></li>
+                </ul>
+                <ul class="sleep">
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
